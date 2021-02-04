@@ -1,0 +1,12 @@
+# [] 都会开启一个区域
+
+[package] # 用来配置包的
+name = "hello_cargo"    # 项目名
+version = "0.1.0"       # 项目版本
+authors = ["justype <3424005241@qq.com>"]   # 作者
+edition = "2018"        # Rust 版本
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]  # 列出项目的依赖项
+# Rust 里，包被称为 crate (大木箱，板条箱(运货用))
