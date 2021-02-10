@@ -1,0 +1,69 @@
+<svg width="1000" height="700" xmlns="http://www.w3.org/2000/svg">
+ <g transform="scale(4.1666998863220215) translate(4,152) " class="graph" id="graph0">
+  <title>%3</title>
+  <polygon id="svg_1" points="-4,4 -4,-152 233,-152 233,4 -4,4" stroke="transparent" fill="#ffffff"/>
+  <!-- table0 -->
+  <g class="node" id="node1">
+   <title>table0</title>
+   <polyline id="svg_2" points="8,-124 96,-124 " stroke="#000000" fill="none"/>
+   <text id="svg_3" fill="#000000" font-size="14" font-family="Times,serif" y="-129.8" x="45.7759" text-anchor="start">s1</text>
+   <polygon id="svg_4" points="8,-104 8,-124 60,-124 60,-104 8,-104" stroke="#000000" fill="none"/>
+   <text id="svg_5" fill="#000000" font-size="14" font-family="Times,serif" y="-109.8" x="18.8413" text-anchor="start">name</text>
+   <polygon id="svg_6" points="60,-104 60,-124 96,-124 96,-104 60,-104" stroke="#000000" fill="none"/>
+   <text id="svg_7" fill="#000000" font-size="14" font-family="Times,serif" y="-109.8" x="62.8413" text-anchor="start">value</text>
+   <polygon id="svg_8" points="8,-84 8,-104 60,-104 60,-84 8,-84" stroke="#000000" fill="none"/>
+   <text id="svg_9" fill="#000000" font-size="14" font-family="Times,serif" y="-89.8" x="26.2241" text-anchor="start">ptr</text>
+   <polygon id="svg_10" points="60,-84 60,-104 96,-104 96,-84 60,-84" stroke="#000000" fill="none"/>
+   <polygon id="svg_11" points="8,-64 8,-84 60,-84 60,-64 8,-64" stroke="#000000" fill="none"/>
+   <text id="svg_12" fill="#000000" font-size="14" font-family="Times,serif" y="-69.8" x="25.4482" text-anchor="start">len</text>
+   <polygon id="svg_13" points="60,-64 60,-84 96,-84 96,-64 60,-64" stroke="#000000" fill="none"/>
+   <text id="svg_14" fill="#000000" font-size="14" font-family="Times,serif" y="-69.8" x="74.5" text-anchor="start">5</text>
+   <polygon id="svg_15" points="8,-44 8,-64 60,-64 60,-44 8,-44" stroke="#000000" fill="none"/>
+   <text id="svg_16" fill="#000000" font-size="14" font-family="Times,serif" y="-49.8" x="10.6826" text-anchor="start">capacity</text>
+   <polygon id="svg_17" points="60,-44 60,-64 96,-64 96,-44 60,-44" stroke="#000000" fill="none"/>
+   <text id="svg_18" fill="#000000" font-size="14" font-family="Times,serif" y="-49.8" x="74.5" text-anchor="start">5</text>
+  </g>
+  <!-- table1 -->
+  <g class="node" id="node2">
+   <title>table1</title>
+   <polygon id="svg_19" points="148.5,-104 148.5,-124 185.5,-124 185.5,-104 148.5,-104" stroke="#000000" fill="none"/>
+   <text id="svg_20" fill="#000000" font-size="14" font-family="Times,serif" y="-109.8" x="151.4482" text-anchor="start">index</text>
+   <polygon id="svg_21" points="185.5,-104 185.5,-124 221.5,-124 221.5,-104 185.5,-104" stroke="#000000" fill="none"/>
+   <text id="svg_22" fill="#000000" font-size="14" font-family="Times,serif" y="-109.8" x="188.3413" text-anchor="start">value</text>
+   <polygon id="svg_23" points="148.5,-84 148.5,-104 185.5,-104 185.5,-84 148.5,-84" stroke="#000000" fill="none"/>
+   <text id="svg_24" fill="#000000" font-size="14" font-family="Times,serif" y="-89.8" x="163.5" text-anchor="start">0</text>
+   <polygon id="svg_25" points="185.5,-84 185.5,-104 221.5,-104 221.5,-84 185.5,-84" stroke="#000000" fill="none"/>
+   <text id="svg_26" fill="#000000" font-size="14" font-family="Times,serif" y="-89.8" x="200" text-anchor="start">h</text>
+   <polygon id="svg_27" points="148.5,-64 148.5,-84 185.5,-84 185.5,-64 148.5,-64" stroke="#000000" fill="none"/>
+   <text id="svg_28" fill="#000000" font-size="14" font-family="Times,serif" y="-69.8" x="163.5" text-anchor="start">1</text>
+   <polygon id="svg_29" points="185.5,-64 185.5,-84 221.5,-84 221.5,-64 185.5,-64" stroke="#000000" fill="none"/>
+   <text id="svg_30" fill="#000000" font-size="14" font-family="Times,serif" y="-69.8" x="200.3931" text-anchor="start">e</text>
+   <polygon id="svg_31" points="148.5,-44 148.5,-64 185.5,-64 185.5,-44 148.5,-44" stroke="#000000" fill="none"/>
+   <text id="svg_32" fill="#000000" font-size="14" font-family="Times,serif" y="-49.8" x="163.5" text-anchor="start">2</text>
+   <polygon id="svg_33" points="185.5,-44 185.5,-64 221.5,-64 221.5,-44 185.5,-44" stroke="#000000" fill="none"/>
+   <text id="svg_34" fill="#000000" font-size="14" font-family="Times,serif" y="-49.8" x="201.5552" text-anchor="start">l</text>
+   <polygon id="svg_35" points="148.5,-24 148.5,-44 185.5,-44 185.5,-24 148.5,-24" stroke="#000000" fill="none"/>
+   <text id="svg_36" fill="#000000" font-size="14" font-family="Times,serif" y="-29.8" x="163.5" text-anchor="start">3</text>
+   <polygon id="svg_37" points="185.5,-24 185.5,-44 221.5,-44 221.5,-24 185.5,-24" stroke="#000000" fill="none"/>
+   <text id="svg_38" fill="#000000" font-size="14" font-family="Times,serif" y="-29.8" x="201.5552" text-anchor="start">l</text>
+   <polygon id="svg_39" points="148.5,-4 148.5,-24 185.5,-24 185.5,-4 148.5,-4" stroke="#000000" fill="none"/>
+   <text id="svg_40" fill="#000000" font-size="14" font-family="Times,serif" y="-9.8" x="163.5" text-anchor="start">4</text>
+   <polygon id="svg_41" points="185.5,-4 185.5,-24 221.5,-24 221.5,-4 185.5,-4" stroke="#000000" fill="none"/>
+   <text id="svg_42" fill="#000000" font-size="14" font-family="Times,serif" y="-9.8" x="200" text-anchor="start">o</text>
+  </g>
+  <!-- table0&#45;&gt;table1 -->
+  <g class="edge" id="edge1">
+   <title>table0:c-&gt;table1:pointee</title>
+   <path id="svg_43" d="m78,-94c0,0 31.3406,0 60.3797,0" stroke="#000000" fill="none"/>
+   <polygon id="svg_44" points="138.5,-97.5001 148.5,-94 138.5,-90.5001 138.5,-97.5001" stroke="#000000" fill="#000000"/>
+  </g>
+ </g>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <text stroke="#000" transform="matrix(4.032842636108398,0,0,4.18125581741333,-125.62602856755257,160.554004535079) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_46" y="-28.743554" x="41.427657" stroke-width="0" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="35" id="svg_47" y="93" x="309" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Stack</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="35" id="svg_49" y="92" x="745" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Heap</text>
+ </g>
+</svg>
